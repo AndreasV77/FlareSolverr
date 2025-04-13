@@ -1,10 +1,10 @@
 bottle==0.12.25
-waitress==2.1.2
+waitress==3.0.1
 selenium==4.15.2
 func-timeout==4.3.5
 prometheus-client==0.17.1
 # required by undetected_chromedriver
-requests==2.32.0
+requests==2.32.3
 certifi==2024.07.04
 websockets==11.0.3
 # only required for linux and macos
